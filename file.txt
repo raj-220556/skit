@@ -1,3 +1,9 @@
+
+
+hi i another one
+hi i am new commit
+
+this is a new line
 commit 1 added
 commit 2 added
 commit 3 added
@@ -98,6 +104,7 @@ commit 97 added
 commit 98 added
 commit 99 added
 commit 100 added
+>>>>>>> parent of 9988a9f (Feature added)
 commit 1 added
 commit 2 added
 commit 3 added
